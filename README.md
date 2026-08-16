@@ -22,13 +22,6 @@
 
 基于 LangGraph、Memory、Scheduler、FastAPI、SSE 和 Vue 3 构建的本地 AI 写作工作台。
 
-### [Guichen Toolkit - Python 实用工具箱](https://github.com/HGT158/guichen-toolkit)
-
-面向日常自动化、图片处理和大模型工作流管理的个人 Python 实用工具合集。
-
-### [Local AI Legal Large Model - 本地法律大模型](https://github.com/HGT158/Local_AI_legal_large_model)
-
-围绕法律领域 AI 应用本地部署进行的实践与工具开发。
 
 ### [SZTU Srun Login Script - 校园网登录工具](https://github.com/HGT158/Sztu-srun-login-script)
 
