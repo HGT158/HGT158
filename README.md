@@ -27,6 +27,10 @@
 
 支持校园网登录、断线重连、记住密码和开机自启的桌面工具。
 
+### [Agentic_rag - 保险文档 Agentic RAG 系统](https://github.com/HGT158/agentic_rag)  
+
+基于 DashVector 与 OSS 的保险领域 Agentic RAG 系统，支持检索增强、查询路由、工具循环与引用式答案生成。
+
 ## 技术栈
 
 `Python` | `LangGraph` | `FastAPI` | `Vue 3` | `RAG` | `SSE` | `JavaScript` | `Git`
